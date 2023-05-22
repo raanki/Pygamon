@@ -58,4 +58,4 @@ La classe `Game` contient plusieurs méthodes pour gérer les différentes parti
 
 ## Auteur
 
-Ce jeu a été créé par [ranki].
+Ce jeu a été créé par ranki.
