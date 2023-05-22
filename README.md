@@ -2,7 +2,9 @@
 
 ## Description
 
-Pygamon - Aventure est un jeu 2D simple écrit en Python avec l'utilisation de la bibliothèque Pygame. Le jeu a été créé principalement pour découvrir le fonctionnement des jeux 2D.
+Pygamon - Aventure est un jeu 2D simple écrit en Python avec l'utilisation de la bibliothèque Pygame. <br>
+
+## **Le jeu a été créé principalement pour découvrir le fonctionnement des jeux 2D.**
 
 ## Code Structure
 
