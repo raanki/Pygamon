@@ -6,6 +6,16 @@ Pygamon - Aventure est un jeu 2D simple écrit en Python avec l'utilisation de l
 
 ## **Le jeu a été créé principalement pour découvrir le fonctionnement des jeux 2D.**
 
+### Voici à quoi ressemble le jeu : 
+
+<p align="center"><img src="img/Jeux.PNG" alt="jeu.png" width="500" height="400" /></p>
+<p align="center"><img src="img/Maison.PNG" alt="jeu.png" width="500" height="300" /></p>
+
+*Comment la carte a été créée en .tmx ?*
+
+<p align="center"><img src="img/carte_tmx.PNG" alt="jeu.png" width="500" height="300" /></p>
+<p align="center"><img src="img/house.tmx" alt="jeu.png" width="500" height="300" /></p>
+
 ## Code Structure
 
 - Le script principal (`main.py`) initialise le jeu et le lance.
