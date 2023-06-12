@@ -56,6 +56,4 @@ La classe `Game` contient plusieurs méthodes pour gérer les différentes parti
 
 `player.py` contient la classe `Player`, qui gère le personnage du joueur. Le joueur a une position, une vitesse, une apparence (qui est gérée par une sprite sheet), et des méthodes pour se déplacer dans les quatre directions.
 
-## Auteur
-
-Ce jeu a été créé par ranki.
+#### by @ranki
